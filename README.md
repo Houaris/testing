@@ -1,2 +1,2 @@
 # testing
-Basics of testing 
+Some testing scripts
